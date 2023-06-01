@@ -1,6 +1,6 @@
 # [Google-IT-Automation-with-Python](https://www.coursera.org/professional-certificates/google-it-automation)
 
-Google IT Automation with Python Professional Certificate
+*Google IT Automation with Python Professional Certificate*
 
 * Learn in-demand skills like Python, Git, and IT automation to advance your career
 
