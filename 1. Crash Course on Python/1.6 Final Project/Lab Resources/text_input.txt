@@ -1,0 +1,108 @@
+Founded in 1991 by developer Guido van Rossum, and also known as The “Swiss Army Knife” of Programming Languages, Python has been one of almost every beginner in the programming world.
+Since its inception, Python has been the language that is easy to learn and powerful to use; and therefore is used for scientific and computational applications like FreeCAD and Abacus and also by popular companies like Google, Facebook, Netflix, Instagram, and Youtube.
+Gregory Reshetnaik, a software architect at Nokia says:
+“Myself and others have been using Python for both quick scripting as well as developing enterprise software for Fortune 500 companies. It’s power is flexibility and ease of use in both cases. The learning curve is very mild and the language is feature-rich.”
+According to StackOverflow Trends Python is the fastest-growing programming language and is the second-most preferred language for developers. Python also ranked at the #1 position in December 2020 on the PYPL index.
+The canonical, “Python is a great first language”, elicited, “Python is a great last language!” —Noah Spurrier
+Indeed.com, a worldwide employment-related search engine for job listings, ranked Python as the 3rd most profitable programming language in the world. And according to Glassdoor’s recent report, Python developers earn an average annual salary of about $72,500.
+The best thing about Python programming is that being a high-level language, it is easy to learn.
+Here’s the acronym, given by Sean McGrath to Python:
+“PYTHON = (P)rogrammers (Y)earning (T)o (H)omestead (O)ur (N)oosphere”
+Since Python is one of the top programming languages, many might already have coded in Python. But I bet they might not know the below interesting facts about Python. Sounds exciting, isn’t it?
+So, let’s get started with any further delays.
+#1 Python Was a Time-Pass Hobby Project
+What if I tell you, Python was a brainchild of a programmer who was looking to get through his holidays by taking up a hobby project? Well, that was indeed the case with our hero Python back then.
+World-Renowned computer programmer Guido van Rossum was looking for an interesting project to keep him occupied during the Christmas holidays in 1989. He had been thinking of writing a new scripting language that’d be a descendant of ABC and also appeal to Unix/C hackers.
+Two years later, in 1991, the project that is said to have succeeded ABC, is created and he chose to call it Python.
+#2 Python Was Named After a TV Show — Not a Snake
+The name Python, to a programming language, seems wired. Unlike the popular belief that the programming language was named after the famous non-venomous snake Python, well that’s truly not the case with Python.
+There is a whole different story behind it.
+Python creator Guido was a big fan of the BBC’s comedy TV show, “Monty Python’s Flying Circus”. Monty Python was the renowned British comedy group that used to perform in the British colonies back in the 1970s.
+Since Guido was a big fan of Monty Python’s Flying circus, he needed a short, unique, and slightly mysterious name, so he decided to call the language Python.
+#3 The Zen Of Python
+Programming is an art, they keep on saying! Python actually proves it.
+There is actually a poem written by Tim Peters (a major contributor to the Python community) named “THE ZEN OF PYTHON” which can be read by just typing “import this” in your Python IDLE:
+Input:
+import this
+Output:
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+#4 Python Overtook French
+One of the most widely learned foreign languages in the world after English, French is losing its panache to an equally fancy language Python.
+“Now, it’s my belief that Python is a lot easier than to teach to students programming and teach them C or C++ or Java at the same time because all the details of the languages are so much harder. Other scripting languages really don’t work very well there either.” — Guido van Rossum
+Believe it or not, In a survey conducted by the United Kingdom in 2015, Python overtook French to be one of the most popular languages that are taught in primary schools. The results came as a shock as 6 out of 10 parents wanted their children to learn Python instead of French.
+That survey that was conducted by Ocado Technology had about 3,000 participants: 1,000 five to 11-year-old primary school children, 1,000 eleven to 16-year-old students, and 1,000 parents.
+About 75% of primary school children from the study preferred to program a robot rather than learning a foreign language which is quite encouraging.
+#5 Flavors Of Python
+Python programming language has different flavors (or variants) for different use cases and applications. Some of them are:
+CPython- It is the reference implementation of the Python language. It is written in C and Python.
+Jython- It’s an implementation of the Python language which is designed to run on the Java platform.
+IronPython- It is written entirely in C#. It targets the .NET Framework and Mono.
+Brython- It is Python for Browser and it runs in the browser.
+RubyPython- It is the bridge b/w interpreters of Python and Ruby.
+PyPy- Implemented in Python.
+MicroPython- It runs on a microcontroller.
+#6 Python is Older Than Java
+The programming language of Python is very high in demand over the past decade. So it seems that Python is a new language that has attracted and strengthened its listeners.
+But here’s the interesting truth: Python is an old programming language and much older than Java. Python was first released in 1991 whereas Java was released in 1995. Today, Python is 30 years old but still stands strong for the future.
+#7 Python is Not Slow
+Python is like a Swiss army knife for programmers. However, some developers continue to claim that even though Python is very easy to learn because of its simple syntax…but it is simply too slow.
+But the question is: “If Python would have been slow then why would companies like Instagram, NASA, IBM, Google, Youtube use Python?”
+Cuong Do, Software Architect at YouTube said, “Python is fast enough for our site and allows us to produce maintainable features in record times, with a minimum of developers.”
+And then there’s another from Peter Norvig, Google’s Director of search quality:
+“Python has been an important part of Google since the beginning, and remains so as the system grows and evolves. Today dozens of Google engineers use Python, and we’re looking for more people with skills in this language.”
+Python is indeed a little bit slower than compared to other programming languages like C, C++, Java, etc…because they are compiled languages whereas Python is interpreted. Thus, this gives a slightly slower speed.
+But remember the fact that Python is slower, doesn’t affect its increasing popularity and high demand in big tech companies. As Robert Lloyd summed up the best: “Slow and steady wins the race.”
+#8 Python Influenced JavaScript
+Python is one of the nine programming languages that influenced the design of JavaScript. Python together with Perl influenced JavaScript’s handling of strings, arrays, and regular expressions. Other eight languages are AWK, C, HyperTalk, Java, Lua, Perl, Scheme, and Self.
+#9 Python Can Define Infinites
+One of the facts that we have been told from the start of our proper education is that infinities are not defined. Well, that’s not actually true for Python.
+Input:
+# Positive Infinity 
+p_infinity = float('Inf') 
+  
+if 99999999999999 > p_infinity: 
+    print("The number is greater than Infinity!") 
+else: 
+    print("Infinity is greatest") 
+  
+# Negetive Infinity 
+n_infinity = float('-Inf') 
+if -99999999999999 < n_infinity: 
+    print("The number is lesser than Negative Infinity!") 
+else: 
+    print("Negative Infinity is least")
+Output:
+Infinity is greatest
+Negative Infinity is least
+#10 Python Supports Multiple Returns
+Python supports multiple returns from a single function which is not possible in most of the other programming languages such as Java, C, etc.
+Input:
+def func(): 
+   return 1, 2, 3, 4, 5
+  
+one, two, three, four, five = func() 
+  
+print(one, two, three, four, five)
+Output:
+(1, 2, 3, 4, 5)
+So out of 10 above facts, which one did you find the most interesting?
