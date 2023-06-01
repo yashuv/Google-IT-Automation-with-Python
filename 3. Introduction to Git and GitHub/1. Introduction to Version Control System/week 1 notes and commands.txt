@@ -1,0 +1,51 @@
+Windows cmd command:
+-------------------
+1. type filename.txt
+This will open the specified file in the terminal for viewing.
+---
+2. fc file1.py file2.py
+find the lines that are different between file1.py and file2.py.
+---
+4. fc old_file new_file > change.diff
+generating a file called change.diff with the contents of fc command.
+---
+6. echo -n "" > filename
+create new empty filename
+---
+7. hello.py > output.txt
+create the new output.txt file to store the o/p of hello.py script(if correct syntax).
+
+
+=====================================================================
+Linux terminal command:
+----------------------
+1. cat filename.txt
+This will open the specified file in the terminal for viewing.
+---
+2. diff file1.py file2.py
+find the differences between file1.py and file2.py.
+
+diff -u file1.py file2.py
+extra content than before.
+---
+3. wdiff file1.py file2.py
+wdiff highlights the words that have changed in a file instead of working line by line like diff does.
+---
+4. diff-u file1.py file2.py > change.diff.
+show difference of file1.py and file2.py in change.diff file
+---
+5. patch old_file < change.diff
+It applies the changes contained in a diff file to another file.
+---
+6. touch filename
+create new file
+for eg: touch filename.txt, creates a new, empty file called filename.txt
+---
+7. ./hello.py > output.txt
+create the new output.txt file to store the o/p of hello.py script(if correct syntax).
+
+====================================
+Windows Powershell command:
+--------------------------
+2. Compare-Object (Get-Content .\transcript1.txt)(Get-Content .\transcript2.txt)
+wdiff highlights the words that have changed in a file instead of working line by line like diff does.

@@ -1,0 +1,56 @@
+Git commands:
+-------------
+git config --global user.name "Your Name"  
+set the username that will be associated with future commits.
+
+git config --global user.email "youremail@example.com"
+set the email address that will be associated with your Git commits.
+
+mkdir dir_name
+create a new directory dir_name.
+
+cd dir_name
+change the current working directory to dir_name.
+
+git init
+initialize a new Git repository in currrent directory.
+
+ls -la
+list all files and directories in a long format, which includes the file's permissions, owner, group, size, last modification date, and name.
+
+ls -l .git/
+lists the objects in the git repository.
+
+cp ../file_name
+- copy a file into current directory.
+
+ls -l
+- list files and directories of current directory.
+(we now have untracked file in a working tree but it's currently untracked by Git)
+
+git config -l
+- lists all the settings (current configuration) for a Git repository.
+
+chmod +x filename
+- The chmod command is used to change the permissions of a file or directory. The +x option makes the file executable.
+
+git log
+-  display a list of all the commits made to a repository. It also shows the author of each commit, the date it was made, and a brief description of the commit.
+
+---------------
+Tracking files
+---------------
+git add file_name
+add a file to the staging area.
+
+git status
+-check the status of a git repository. shows you which files have been modified, which files are new, and which files are not being tracked by git.
+-get some information about the current working tree and pending changes
+
+git commit -m "message"
+commit changes to a git repository. The -m flag stands for message and allows you to specify a commit message.
+====================================================
+
+
+
+
